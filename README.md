@@ -1,2 +1,2 @@
 # Scripts
-My personal Scrpts
+My personal scripts.
